@@ -41,7 +41,7 @@ existing GAF-CNN model.</p>
       for each class, 200 for validation for each class, and 350 for testing, and created OHLC, CULR, and CCOMHML,
       loading them into the data folder. For more information, please see the main article.</p>
 	  
-	  <p>The patterns that we utilized in our experiments were Evening Star, Morning Star, Bearish Engulfing,
+<p>The patterns that we utilized in our experiments were Evening Star, Morning Star, Bearish Engulfing,
 	  Bullish Engulfing, Shooting Star, Inverted Hammer, Bearish Harami, and Bullish Harami, labeled as 1 and 8
 	  respectively, with 0 for the noisy class in our datasets.</p>
 		
