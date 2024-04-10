@@ -44,7 +44,7 @@ existing GAF-CNN model.</p>
 <p>The patterns that we utilized in our experiments were Evening Star, Morning Star, Bearish Engulfing,
 	  Bullish Engulfing, Shooting Star, Inverted Hammer, Bearish Harami, and Bullish Harami, labeled as 1 and 8
 	  respectively, with 0 for the noisy class in our datasets.</p>
-		
+<div class="image-gallery">			
   <figure>
     <img src="images/estar.png" alt="Image 1">
     <figcaption>Evening Star</figcaption>
@@ -77,7 +77,7 @@ existing GAF-CNN model.</p>
     <img src="images/inverth.png" alt="Image 8">
     <figcaption>Inverted Hammer</figcaption>
   </figure>
-
+</div>
 	   
   <h2 id="Implementation">Implementation</h2>
   <p>
